@@ -32,7 +32,7 @@ public class EmployeeTest {
                 new Employee(1011, "gagan", 10000)
         );
         Double result = employeesList.stream().filter((emp) -> emp.getSalary() > 50000).map((emp) -> emp.getSalary() * 0.10).reduce((a, b) -> a + b).get();
-        System.out.println("after manimulation and reducing result : " + result);
+        System.out.println("after manipulation and reducing result : " + result);
 
 
         Double result2 = employeesList.stream().map((emp) -> emp.getSalary()).reduce((a, b) -> a + b).map((sum) -> sum / 16).get();
