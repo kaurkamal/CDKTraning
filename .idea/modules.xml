@@ -5,7 +5,13 @@
       <module fileurl="file://$PROJECT_DIR$/Day10/Day10.iml" filepath="$PROJECT_DIR$/Day10/Day10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day11/Day11.iml" filepath="$PROJECT_DIR$/Day11/Day11.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day12/Day12.iml" filepath="$PROJECT_DIR$/Day12/Day12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day13/Day13.iml" filepath="$PROJECT_DIR$/Day13/Day13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day14/Day14.iml" filepath="$PROJECT_DIR$/Day14/Day14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IoAssignment/IoAssignment.iml" filepath="$PROJECT_DIR$/IoAssignment/IoAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day15/day15.iml" filepath="$PROJECT_DIR$/day15/day15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day16/day16.iml" filepath="$PROJECT_DIR$/day16/day16.iml" />
       <module fileurl="file://$PROJECT_DIR$/demoProject.iml" filepath="$PROJECT_DIR$/demoProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8Assignment/java8Assignment.iml" filepath="$PROJECT_DIR$/java8Assignment/java8Assignment.iml" />
     </modules>
   </component>
 </project>

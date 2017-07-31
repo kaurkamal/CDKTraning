@@ -3,9 +3,9 @@
  */
 public class Cinema {
     public static void main(String[] args) {
-        User user = new User(101, "xyz", 8, 4);
+        User user = new User(101, "xyz", 18, 4);
         try {
-            MovieService.buy(user, 1500.0);
+            MovieService.buy(user, 2500.0);
             MovieService.watch(user);
         } catch (InvalidAgeException e) {
             System.out.println(e.getMessage());

@@ -7,7 +7,7 @@ public class Car implements Comparable<Car> {
     public String name;
     public String brand;
 
-    public Car(double price,int id, String name, String brand) {
+    public Car(double price, int id, String name, String brand) {
         this.price = price;
         this.id = id;
         this.name = name;
