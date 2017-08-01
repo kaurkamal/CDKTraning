@@ -9,14 +9,16 @@ public class Assignment {
         LinkedBlockingQueue<Integer> blockingQueue = new LinkedBlockingQueue<>();
         Producer producer = new Producer(blockingQueue);
         Consumer consumer = new Consumer(blockingQueue);
-        producer.start();
-        consumer.start();
+        Thread thread1 = new Thread(producer);
+        thread1.start();
+        Thread thread2 = new Thread(consumer);
+        thread2.start();
 
     }
 
 }
 
-class Producer extends Thread {
+class Producer implements Runnable {
     LinkedBlockingQueue<Integer> queue = null;
 
     public Producer(LinkedBlockingQueue<Integer> queue) {
@@ -27,7 +29,7 @@ class Producer extends Thread {
     public void run() {
         for (int i = 0; i < 500; i++) {
             try {
-                queue.put(i);
+                queue.put((int)(Math.random() * 1000));
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
@@ -35,7 +37,7 @@ class Producer extends Thread {
     }
 }
 
-class Consumer extends Thread {
+class Consumer implements Runnable {
     LinkedBlockingQueue<Integer> queue = null;
 
     public Consumer(LinkedBlockingQueue<Integer> queue) {
