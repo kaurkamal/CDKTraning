@@ -19,11 +19,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="Assinment1.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Assinment1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day17-Multithreading/src/Assinment1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="20" column="41" lean-forward="false" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+            <state relative-caret-position="91">
+              <caret line="7" column="81" lean-forward="false" selection-start-line="7" selection-start-column="81" selection-end-line="7" selection-end-column="81" />
               <folding />
             </state>
           </provider>
@@ -51,7 +51,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Assignment.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Assignment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day17-Multithreading/src/Assignment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="419">
@@ -644,7 +644,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501578878975</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="&quot;Multithreading 1 aug assignment&quot;">
+      <created>1501579143383</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1501579143383</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1071,19 +1078,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day17-Multithreading/src/Assinment1.java">
+    <entry file="file://$PROJECT_DIR$/day17-Multithreading/src/Assignment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="20" column="41" lean-forward="false" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day16/src/ThreadMultidemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="419">
+          <caret line="54" column="9" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="54" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1097,15 +1100,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day17-Multithreading/src/Assignment.java">
+    <entry file="file://$PROJECT_DIR$/day16/src/ThreadMultidemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="54" column="9" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="54" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#697#698#0" expanded="true" />
-            <element signature="e#731#732#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="528">
+          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day17-Multithreading/src/Assinment1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="7" column="81" lean-forward="false" selection-start-line="7" selection-start-column="81" selection-end-line="7" selection-end-column="81" />
+          <folding />
         </state>
       </provider>
     </entry>

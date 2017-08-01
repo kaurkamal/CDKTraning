@@ -6,8 +6,6 @@ import java.util.concurrent.LinkedBlockingQueue;
 public class Assinment1 {
     public static void main(String[] args) {
         LinkedBlockingQueue<Integer> blockingQueue = new LinkedBlockingQueue<>();
-        Producer producer = new Producer(blockingQueue);
-        Consumer consumer = new Consumer(blockingQueue);
         Thread thread1 = new Thread(() -> {
             for (int i = 0; i < 500; i++) {
                 try {
