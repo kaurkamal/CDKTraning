@@ -8,15 +8,12 @@ public class ExecutorServiceDemo {
 
 
     public static void main(String[] args) {
-
-        SumTask sumTask = new SumTask();
         Executor executor = Executors.newCachedThreadPool();
         for (int i = 0; i < 500; i++) {
-            executor.execute(sumTask);
+            executor.execute(new SumTask());
         }
     }
 }
-
 
 class SumTask implements Runnable {
 
