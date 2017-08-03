@@ -2,60 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="230f9f47-1eeb-4516-abb1-f9d5c525aa68" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ServletAssignment/ServletAssignment.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day 18 - tdd/day 18 - tdd.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day 18 - tdd/src/com/cdk/shop/ItemNotFoundException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day 18 - tdd/src/com/cdk/shop/Product.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day 18 - tdd/src/com/cdk/shop/ShoppingCartService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day 18 - tdd/test/TestShoppingService.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day10/.idea/Day10.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day10/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day10/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day10/Day10.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day10/src/Employee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day10/src/EmployeeTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day10/src/Enum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day10/src/Stringpool.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day11/Day11.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day11/src/Account.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day11/src/CheckService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day11/src/EmailService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day11/src/EmailTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day11/src/EmployeeService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day11/src/HrDepartment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day11/src/LocationService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day11/src/Manager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day11/src/TestEmployee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day11/src/javaCollection/Employee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day11/src/javaCollection/EmployeeTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day12/Day12.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day12/src/Car.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day12/src/CarBrandComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day12/src/CarDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day12/src/CarIdComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day12/src/CarNameComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day13/Day13.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day13/src/Cinema.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day13/src/InvalidAgeException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day13/src/InvalidPriceException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day13/src/InvalidRatingException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day13/src/MovieService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day13/src/User.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day14/Day14.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day14/src/Cars.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day14/src/CarsTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day14/src/Movie.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/day15/day15.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/day15/src/Employee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/day15/src/EmployeeTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/day16/day16.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/day16/src/ReadFile2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/day16/src/Readfile1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/day16/src/TestReadFiles.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/day16/src/ThreadMultidemo.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ServletAssignment/ServletAssignment.iml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day17-Multithreading/src/Assignment2.java" afterPath="$PROJECT_DIR$/day17-Multithreading/src/Assignment2.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -667,7 +615,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501641182107</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="&quot;Multithreading 2 aug assignment2&quot;">
+      <created>1501768941033</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1501768941033</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -714,7 +669,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293617" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32068965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1094,6 +1049,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1101,6 +1057,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="31" column="41" lean-forward="false" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1108,6 +1067,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
