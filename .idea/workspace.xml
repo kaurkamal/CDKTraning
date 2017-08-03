@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="230f9f47-1eeb-4516-abb1-f9d5c525aa68" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ServletAssignment/ServletAssignment.iml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -622,7 +621,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501768941033</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Update git">
+      <created>1501769105762</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1501769105762</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -740,7 +746,8 @@
     <MESSAGE value="&quot;Multithreading execotor demo&quot;" />
     <MESSAGE value="&quot;Multithreading 1 aug assignment&quot;" />
     <MESSAGE value="&quot;Multithreading 2 aug assignment2&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Multithreading 2 aug assignment2&quot;" />
+    <MESSAGE value="Update git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update git" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -785,13 +792,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Day7/src/InterfaceImplementation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Company.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1067,6 +1067,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day10- SortingEmployee/src/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
