@@ -8,7 +8,7 @@ public class Assignment2 {
 
         ExecutorService executor = Executors.newCachedThreadPool();
         Future<Integer> future[] = new Future[5];
-        future[0] = executor.submit(new SumPrimeTask(2, 100));
+        future[0] = executor.submit(new SumPrimeTask(1, 100));
         future[1] = executor.submit(new SumPrimeTask(101, 200));
         future[2] = executor.submit(new SumPrimeTask(201, 300));
         future[3] = executor.submit(new SumPrimeTask(301, 400));
@@ -52,12 +52,10 @@ class SumPrimeTask implements Callable<Integer> {
                     break;
                 }
             }
-            if (isPrimeNumber) {
+            if (isPrimeNumber && i != 1) {
                 sum += i;
             }
         }
-
-
         return sum;
     }
 }
