@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Day10/Day10.iml" filepath="$PROJECT_DIR$/Day10/Day10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day11/Day11.iml" filepath="$PROJECT_DIR$/Day11/Day11.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day12/Day12.iml" filepath="$PROJECT_DIR$/Day12/Day12.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day13/Day13.iml" filepath="$PROJECT_DIR$/Day13/Day13.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day14/Day14.iml" filepath="$PROJECT_DIR$/Day14/Day14.iml" />
+      <module fileurl="file://C:\Users\kaurk\demoProject\Day10\Day10.iml" filepath="C:\Users\kaurk\demoProject\Day10\Day10.iml" />
+      <module fileurl="file://C:\Users\kaurk\demoProject\Day11\Day11.iml" filepath="C:\Users\kaurk\demoProject\Day11\Day11.iml" />
+      <module fileurl="file://C:\Users\kaurk\demoProject\Day12\Day12.iml" filepath="C:\Users\kaurk\demoProject\Day12\Day12.iml" />
+      <module fileurl="file://C:\Users\kaurk\demoProject\Day13\Day13.iml" filepath="C:\Users\kaurk\demoProject\Day13\Day13.iml" />
+      <module fileurl="file://C:\Users\kaurk\demoProject\Day14\Day14.iml" filepath="C:\Users\kaurk\demoProject\Day14\Day14.iml" />
       <module fileurl="file://$PROJECT_DIR$/IoAssignment/IoAssignment.iml" filepath="$PROJECT_DIR$/IoAssignment/IoAssignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/day 18 - tdd/day 18 - tdd.iml" filepath="$PROJECT_DIR$/day 18 - tdd/day 18 - tdd.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day15/day15.iml" filepath="$PROJECT_DIR$/day15/day15.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day16/day16.iml" filepath="$PROJECT_DIR$/day16/day16.iml" />
+      <module fileurl="file://C:\Users\kaurk\demoProject\day15\day15.iml" filepath="C:\Users\kaurk\demoProject\day15\day15.iml" />
+      <module fileurl="file://C:\Users\kaurk\demoProject\day16\day16.iml" filepath="C:\Users\kaurk\demoProject\day16\day16.iml" />
       <module fileurl="file://$PROJECT_DIR$/day17-Multithreading/day17-Multithreading.iml" filepath="$PROJECT_DIR$/day17-Multithreading/day17-Multithreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/demoProject.iml" filepath="$PROJECT_DIR$/demoProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8Assignment/java8Assignment.iml" filepath="$PROJECT_DIR$/java8Assignment/java8Assignment.iml" />
